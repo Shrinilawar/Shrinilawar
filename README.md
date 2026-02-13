@@ -82,7 +82,7 @@ Welcome to my GitHub! I am passionate about **Machine Learning** and **Artificia
 <a href="https://github.com/Shrinilawar" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </a>
-<a href="https://www.instagram.com/yourusername" target="_blank">
+<a href="https://www.instagram.com/shri_nilawar" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
 </a>
 </p>
